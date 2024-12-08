@@ -7,7 +7,7 @@ if (!require("tidyverse")){
 library(tidyverse)
 
 ## Open and view raw data
-gun_violence <- read.csv("C:/Users/willphoe/Documents/Regression Analysis Final Project/Gun Violence Data.csv", header = TRUE)
+gun_violence <- read.csv("Gun Violence Data.csv", header = TRUE)
 
 head(gun_violence)
 str(gun_violence)
