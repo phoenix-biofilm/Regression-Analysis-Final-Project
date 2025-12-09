@@ -1,0 +1,9 @@
+#!/bin/bash
+
+sbatch variable_selection_Type_2_Diagnosed.slurm
+sbatch variable_selection_Type_1_Undiagnosed.slurm
+sbatch variable_selection_Type_1_Diagnosed.slurm
+sbatch variable_selection_Pre_Diabetes_Undiagnosed.slurm
+sbatch variable_selection_No_Diabetes_Undiagnosed.slurm
+sbatch variable_selection_Gestational_Undiagnosed.slurm
+sbatch variable_selection_Gestational_Diagnosed.slurm

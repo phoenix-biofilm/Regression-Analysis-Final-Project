@@ -1,0 +1,174 @@
+
+============================================================
+ Dataset:  Gestational_Diagnosed 
+ ============================================================
+Remaining Variables (sorted):
+ - age
+ - alcohol_use
+ - bmi
+ - cardio_hist
+ - diabetes_hist
+ - diastolic_bp
+ - diet_score
+ - education
+ - employment
+ - ethnicity
+ - glucose_fasting
+ - hdl
+ - hypertension_hist
+ - income
+ - insulin
+ - ldl
+ - physical_activity
+ - screen_time
+ - sleep
+ - smoking
+ - systolic_bp
+ - triglycerides 
+
+
+============================================================
+ Dataset:  Gestational_Undiagnosed 
+ ============================================================
+Remaining Variables (sorted):
+ - age
+ - alcohol_use
+ - bmi
+ - cardio_hist
+ - diabetes_hist
+ - diet_score
+ - education
+ - employment
+ - ethnicity
+ - glucose_postprandial
+ - hdl
+ - hr
+ - hypertension_hist
+ - income
+ - insulin
+ - ldl
+ - physical_activity
+ - screen_time
+ - sleep
+ - smoking
+ - triglycerides 
+
+
+============================================================
+ Dataset:  No_Diabetes_Undiagnosed 
+ ============================================================
+Remaining Variables (sorted):
+ - age
+ - alcohol_use
+ - cardio_hist
+ - diabetes_hist
+ - diet_score
+ - education
+ - employment
+ - ethnicity
+ - gender
+ - glucose_postprandial
+ - hdl
+ - hypertension_hist
+ - income
+ - insulin
+ - ldl
+ - physical_activity
+ - screen_time
+ - sleep
+ - smoking
+ - triglycerides 
+
+
+============================================================
+ Dataset:  Pre_Diabetes_Undiagnosed 
+ ============================================================
+Remaining Variables (sorted):
+ - age
+ - alcohol_use
+ - cardio_hist
+ - diabetes_hist
+ - diet_score
+ - education
+ - employment
+ - ethnicity
+ - gender
+ - glucose_postprandial
+ - hdl
+ - hypertension_hist
+ - income
+ - insulin
+ - ldl
+ - physical_activity
+ - screen_time
+ - sleep
+ - smoking
+ - triglycerides 
+
+
+============================================================
+ Dataset:  Type_1_Diagnosed 
+ ============================================================
+Remaining Variables (sorted):
+ - age
+ - alcohol_use
+ - cardio_hist
+ - diabetes_hist
+ - diet_score
+ - education
+ - employment
+ - gender
+ - hypertension_hist
+ - insulin
+ - ldl
+ - physical_activity
+ - screen_time
+ - smoking
+ - triglycerides 
+
+
+============================================================
+ Dataset:  Type_1_Undiagnosed 
+ ============================================================
+Remaining Variables (sorted):
+ - alcohol_use
+ - cardio_hist
+ - diabetes_hist
+ - diet_score
+ - education
+ - employment
+ - gender
+ - hypertension_hist
+ - insulin
+ - ldl
+ - physical_activity
+ - screen_time
+ - smoking
+ - triglycerides 
+
+
+============================================================
+ Dataset:  Type_2_Diagnosed 
+ ============================================================
+Remaining Variables (sorted):
+ - age
+ - alcohol_use
+ - cardio_hist
+ - diabetes_hist
+ - diet_score
+ - education
+ - employment
+ - ethnicity
+ - gender
+ - glucose_postprandial
+ - hdl
+ - hypertension_hist
+ - income
+ - insulin
+ - ldl
+ - physical_activity
+ - screen_time
+ - sleep
+ - smoking
+ - triglycerides 
+

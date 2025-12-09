@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH --job-name=VS_Type_2_Diagnosed
+#SBATCH --output=VS_Type_2_Diagnosed.out
+#SBATCH --error=VS_Type_2_Diagnosed.err
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=8
+#SBATCH --mem=32G
+#SBATCH --time=00:10:00
+
+module load R
+
+Rscript Variable_Selection.R Type_2_Diagnosed
+
